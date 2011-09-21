@@ -1,3 +1,12 @@
-Para probar sus animaciones entren al archivo /javascript/justanimation_app y llenen los campos correspondientes. Despúes corran el index.html en el web browser de su preferencia.
+Para probar sus animaciones
+    1.Entren al archivo /javascript/justanimation_app.
+    2.Modificar la sección DATOS DE LA IMAGEN.
+        -En la variable imagen cambien la dirección de ejemplo por la dirección de su imagen.
+        -En la variable ancho coloquen el ancho en pixeles de cada frame.
+        -En la variable duracion coloquen cuanto debe durar cada frame en milisegundos.
+        -En la variable loop cambien su valor por false si no desean que se loopee la animación.
+    3.Modificar la sección de PARÁMETROS DE POSICIÓN si desean cambiar las coordenadas
+      en las que se dibujará el sprite. 
+    4.Corran el index.html en el web browser de su preferencia.
 
 
